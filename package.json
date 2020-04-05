@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@material-ui/core": "^4.4.1",
-    "acorn": "^6.3.0",
+    "acorn": "^6.4.1",
     "express": "^4.16.4",
     "superagent": "^5.0.2"
   },
